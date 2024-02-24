@@ -4,6 +4,7 @@ using namespace std;
 int main()
 
 {
+//Added Subjects of Fsc,1st & 2nd Semester's , then merged all.
     cout << "My name is Rameez." << endl;
     cout << "My roll number is 06." << endl;
     cout << "My Fsc subjects are math's , physics & computer." << endl;
