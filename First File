@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+    cout << "My name is Rameez." << endl;
+    cout << "My roll number is 06." << endl;
+
+    return 0;
+}
