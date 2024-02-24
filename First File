@@ -6,6 +6,12 @@ int main()
 {
     cout << "My name is Rameez." << endl;
     cout << "My roll number is 06." << endl;
+    cout << "My Fsc subjects are math's , physics & computer." << endl;
+    cout << "My first semester subjects are Ict,Programming." << endl;
+    cout << "My Second semester subjects are: " << endl;
+    cout << "1 Discrete Structures" << endl;
+    cout << "2 SDLC." << endl;
+    cout << "3 OOP." << endl;
 
     return 0;
 }
