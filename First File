@@ -1,3 +1,5 @@
+cout << "Addition: " << a+b ;
+
 #include <iostream>
 using namespace std;
 
